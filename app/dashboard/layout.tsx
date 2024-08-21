@@ -1,4 +1,4 @@
-import SideNav from "@/app/ui/dashboard/sidenav";
+import SideNav from "@/app/components/dashboard/sidenav";
 import React from "react";
 
 export const experimental_ppr = true;
